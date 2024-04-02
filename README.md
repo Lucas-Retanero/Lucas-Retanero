@@ -14,9 +14,8 @@
  
 <br>
  
-### Caso queira entrar em contato comigo, escolha uma das opções abaixo.
+### Caso queira entrar em contato comigo:
 
 <div>
-   <a href = "mailto:lucasretanero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-retanero-2839492b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
