@@ -1,13 +1,10 @@
-## 👋 Olá! Eu sou o Lucas Retanero
+<div align="center">
 
-- 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** – FATEC Itaquera  
-- 🌐 Interesses: desenvolvimento **Full Stack**, APIs, UX/UI e soluções web completas
+<h1>Olá, eu sou o Lucas Retanero 👋</h1>
 
----
+<h3>🎓 Cursando Desenvolvimento de Software Multiplataforma – FATEC Itaquera</h3>
 
-### 🧠 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Retanero&layout=compact&theme=tokyonight)
+<p>🧑‍💻 Em busca de oportunidades para aplicar minhas habilidades em desenvolvimento Full Stack, APIs e soluções web completas</p>
 
 ---
 
@@ -26,19 +23,19 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
 #### Banco de Dados
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Cassandra" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Apache_Cassandra_logo.svg">
-</div>
+<img align="center" alt="Cassandra" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-plain-wordmark.svg">
 
-#### Ferramentas & Design
+
+#### Ferramentas & DevOps
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
@@ -46,6 +43,14 @@
 
 ---
 
-### 📫 Contato
+## 📫 Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-retanero/){:target="_blank"}  
+✉️ <strong>Email:</strong> lucasretanero@gmail.com <br>
+💼 <strong><a href="https://www.linkedin.com/in/lucas-retanero/" target="_blank">LinkedIn</a></strong> <br>
+📱 <strong>WhatsApp:</strong> (11) 94510-7928 
+
+---
+
+✨ Obrigado por visitar meu perfil!
+
+</div>
